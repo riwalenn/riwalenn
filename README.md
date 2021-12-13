@@ -3,7 +3,7 @@
 - 🎓 I’m currently learning PHP/Symfony
 - 🌐 You can see my work on git and on my [blog](https://www.riwalennbas.com)
 
-https://github-readme-stats.vercel.app/api?username=riwalenn&show_icons=true
+![Riwalenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=riwalenn&show_icons=true)
 
 <!---
 riwalenn/riwalenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

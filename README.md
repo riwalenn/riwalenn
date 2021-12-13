@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @riwalenn
-- I’m interested in 🎧 music, 🎮 video games, 🍣🍙 asian food, 🌭 street food and I love ☕️ coffee.
-- 🎓 I’m currently learning PHP/Symfony
-- 🌐 You can see my work on git and on my [blog](https://www.riwalennbas.com)
+👋 Hi, I’m @riwalenn
+- I’m interested in music, video games, asian food, street food and I love coffee.
+- I’m currently PHP/Symfony developer
+- You can see my work on git and on my [blog](https://www.riwalennbas.com)
 
 ![Riwalenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=riwalenn&show_icons=true)
 

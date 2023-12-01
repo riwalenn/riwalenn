@@ -7,7 +7,7 @@ software developer
 I am a software developer with an ambition to continue learning.
 
 * 🌍  I'm based in Claira
-* 🧠  I'm learning Vue js
+* 🧠  I'm learning software development
 
 ### Skills
 
